@@ -1,0 +1,11 @@
+name: Mag Heroes
+-
+tagline: Chats with magazine makers
+-
+email: dan@laiva.co
+-
+twitter: magheroes
+-
+rss: http://simplecast.fm/podcasts/39/rss
+-
+itunes: http://itunes.com

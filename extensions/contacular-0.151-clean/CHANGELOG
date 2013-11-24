@@ -1,0 +1,87 @@
+Contacular 0.151 'clean' - 5 May 2010
+
+* Made attribution removal more comprehensive
+
+Contacular 0.15 'evolution' - 19 February 2010
+
+* Custom forms
+** Added empty custom form type to allow creation of bespoke forms
+** Modified 'addField' function to allow addition of custom form fields for bespoke forms
+* File upload ability
+** Added file form field type handling
+** Added validation to disallow a specific list of file extensions for uploaded files
+** New function 'setDisallowedTypes' to allow overriding of default list of disallowed file extensions
+** Uploaded file(s) are sent out as e-mail attachments
+* New form types
+** Added submitimage form type which includes name, e-mail and submit image
+** Added submitdocument form type which includes name, e-mail and submit document 
+** Added submitresume form type which includes name, e-mail, telephone and submit Resume
+** Added submitcv form type which includes name, e-mail, telephone and submit CV 
+* Other changes
+** Change to allow custom select (drop down) form fields to be more easily created
+** Removal of redundant, bespoke select form field types
+** Contacular now utilises PHP Mailer class for mail out functions
+** ProcessResponse function no longer requires any parameters
+** Other minor fixes and code clean up
+
+Contacular 0.141 'cupid' - 11 February 2010
+
+* Fixed minor misspellings of 'Contacular' in comments and form/submission names
+
+Contacular 0.14 'human' - 01 February 2010 
+
+* Added reCAPTCHA support (recaptcha.net)
+** setRecaptchaPublicKey function - set the public key obtained from recaptcha.net
+** setRecaptchaPrivateKey function - set the private key obtained from recaptcha.net
+
+Contacular 0.1331 'required' - 29 January 2010
+
+* Fixed minor bug regarding form HTML code when mandatory fields are used
+
+Contacular 0.133 'wishes' - 29 January 2010
+
+* Added 'mandatorytext' field type that is reported as required if user enters no text
+* Added 'mandatorytextarea' field type that is reported as required if user enters no text
+* Modified existing Contacular form types to use new 'mandatorytext' field type
+
+Contacular 0.132 'numeric' - 28 January 2010
+
+* Fixed form actions to use lowercase 'post' method to comply with standards
+* Added version number to 'contacular.php'
+
+Contacular 0.131 'lights camera' - 28 January 2010
+
+* Fixed all generated forms to have absolute URLs as form action
+* Fixed submission issues in some versions of Safari
+
+Contacular 0.13 'simply' - 26 January 2010
+
+* Changed e-mail address domain DNS validation to use checkdnsrr function for improved compatibility with more server set-ups
+* Added simplesubject form type which includes name, subject, e-mail and message
+
+Contacular 0.12 'magic' - 26 January 2010
+
+* Improvements to handling of e-mail address fields
+* Added e-mail address validation
+** Basic regular expression validation
+** Advanced domain name existance check
+* Added validation code to processResponse function - will now return false upon validation errors
+* Added getErrors function to return a HTML list of validation errors
+* Added setAdvancedValidation function to allow advanced validation techniques (such as DNS checks) to be toggled on and off (enabled by default)
+
+Contacular 0.11 'design overload' - 25 January 2010
+
+* Support for checkbox fields
+* Support for referrer fields (e.g. 'how did you find our site?')
+* Added new form types:
+** simplenewsletter - For subscription to a newsletter providing just e-mail address and 'subscribe' checkbox
+** newsletter - For subscription to a newsletter providing name and e-mail address and 'subscribe' checkbox
+** simpleresponse - Simple contact form with name, e-mail, message and 'response desired' checkbox
+** contactresponse - Contact form with name, e-mail, telephone, message and 'response desired' checkbox
+** companycontactreferrer - Company contact form with name, e-mail, telephone, how did you find us?, details on how you found us and message
+* Added error catching in the case that an invalid form type is specified
+
+Contacular 0.1 'slyfox' - 25 January 2010
+
+* Initial release
+

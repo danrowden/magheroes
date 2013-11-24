@@ -1,0 +1,40 @@
+episode: 1
+-
+title: Luke Tonge
+-
+person:
+## Art Director, [Boat Magazine](http://boat-mag.com)
+-
+date: 25th November, 2013
+-
+simplecast_id: 1186
+-
+content: 
+Luke is the Art Director of [Boat Magazine](http://boat-mag.com), a magazine that travels to, and reports from, a different city each issue. We talk about how Luke got into design, what he does in his day job and how he manages to balance that with his work on a nomadic magazine.
+
+## Show Notes
+
+- [Boat Magazine](http://boat-mag.com)
+- [Falmouth University](http://www.falmouth.ac.uk/)
+- [The Stack on Monocle 24](http://monocle.com/radio/shows/the-stack/)
+- [Luke Tonge](http://luketonge.com)
+- [Luke Tonge on Twitter](http://twitter.com/luketonge)
+
+---
+
+## Luke's 3 magazine recommendations
+
+### [The Albion](http://thealbion.cc/)
+
+![The Albion](../content/1.1-luke-tonge/2.TheAlbion1.JPG)
+![The Albion](../content/1.1-luke-tonge/3.TheAlbion2.JPG)
+
+### Scratch (Falmouth University Alumni magazine
+
+![Above](../content/1.1-luke-tonge/4.Scratch1.JPG)
+![Above](../content/1.1-luke-tonge/5.Scratch2.JPG)
+
+### [Above](http://magpile.com/above/)
+
+![Scratch](../content/1.1-luke-tonge/6.Above1.JPG)
+![Scratch](../content/1.1-luke-tonge/7.Above2.JPG)
