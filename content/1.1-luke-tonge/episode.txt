@@ -7,6 +7,8 @@ person:
 -
 date: 25th November, 2013
 -
+description: Luke is the Art Director of Boat Magazine, a magazine that travels to, and reports from, a different city each issue. We talk about how Luke got into design, what he does in his day job and how he manages to balance that with his work on a nomadic magazine.
+-
 simplecast_id: 1186
 -
 content: 
@@ -16,6 +18,7 @@ Luke is the Art Director of [Boat Magazine](http://boat-mag.com), a magazine tha
 
 - [Boat Magazine](http://boat-mag.com)
 - [Falmouth University](http://www.falmouth.ac.uk/)
+- [FormFiftyFive](http://www.formfiftyfive.com)
 - [The Stack on Monocle 24](http://monocle.com/radio/shows/the-stack/)
 - [Luke Tonge](http://luketonge.com)
 - [Luke Tonge on Twitter](http://twitter.com/luketonge)

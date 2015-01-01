@@ -1,0 +1,33 @@
+title: Subscribe to Mag Heroes
+-
+description: The many ways to subscribe to Mag Heroes on your computer or mobile device.
+-
+content: 
+
+## General
+
+In general, to subscribe to a podcast in any client, find an option for adding a new show  and paste in the podcast's feed. The feed is an XML file containing show and episode data. For Mag Heroes, paste in **<http://magheroes.net/feed>**.
+
+## iTunes and Podcasts
+
+You can search for Mag Heroes in iTunes, or use [this link](http://itunes.apple.com/gb/podcast/mag-heroes/id764915895).
+
+Apple also has an iOS app, [Podcasts](https://itunes.apple.com/en/app/podcasts/id525463029) (free), which syncs shows and progress with iTunes.
+
+## Other apps
+
+We recommend the following apps, if Apple's iTunes/Podcasts isn't for you:
+
+### [Instacast](http://vemedio.com/products)
+
+[Mac](http://vemedio.com/store) (free) and [iOS](https://itunes.apple.com/sa/app/instacast/id577056377) ($4.99).  
+Syncs subscriptions, deleted episodes, played and unplayed states, playback position, favorites, lists and bookmarks.
+
+### [Pocket Casts](http://www.shiftyjelly.com/pocketcasts)
+
+[iOS](https://itunes.apple.com/au/app/pocket-casts/id414834813) ($4.49) and [Android](https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts) ($3.61).  
+Syncs subscriptions, podcasts, playlists and progress.
+
+### Podcatcher
+
+[Windows Phone 8](http://www.windowsphone.com/en-gb/store/app/podcatcher/5d5cebe9-420a-4566-a468-04c94aa34d93) ($0.99).

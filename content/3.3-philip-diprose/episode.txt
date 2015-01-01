@@ -1,0 +1,31 @@
+episode: 3
+-
+title: Philip Diprose
+-
+person:
+## Editor, [The Ride Journal](http://theridejournal.com)
+-
+date: 16th January, 2014
+-
+description: Philip is the Editor of The Ride Journal, an illustration-filled, storytelling biking magazine from the UK. We discuss Philip's passion for biking (and his bike collection) and how this fuelled the creation of this beautiful magazine, now on its 8th issue (released tomorrow).
+-
+simplecast_id: 1367
+-
+content: 
+Philip is the Editor of [The Ride Journal](http://theridejournal.com), an illustration-filled, storytelling biking magazine from the UK. We discuss Philip's passion for biking (and his bike collection) and how this fuelled the creation of this beautiful magazine, now on its 8th issue (released tomorrow).
+
+## Show Notes
+
+- [John Tomac](http://en.wikipedia.org/wiki/John_Tomac)
+- [Jens Voigt](http://en.wikipedia.org/wiki/Jens_Voigt)
+- [Illustrations by Shan Jiang](http://www.everynicething.com/)
+- [The Ride Journal](http://theridejournal.com)
+- [The Ride Journal on Twitter](http://twitter.com/theridejournal)
+
+---
+
+## Philip's 3 magazine recommendations
+
+- [Jocks &amp; Nerds](http://www.jocksandnerds.com/)
+- [Fire &amp; Knives](http://magpile.com/fire-and-knives/) (no longer in print)
+- [Smith Journal](http://smithjournal.com.au/)

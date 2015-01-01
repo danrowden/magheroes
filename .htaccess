@@ -17,6 +17,12 @@ RewriteEngine on
 
 ErrorDocument 404 /404.html
 
+# BEGIN FEEDPRESS
+RewriteCond %{HTTP_USER_AGENT} !FeedValidator [NC]
+RewriteCond %{HTTP_USER_AGENT} !FeedPress [NC]
+RewriteRule ^feed/?$ http://feedpress.me/magheroes [R=302,NC,L]
+# END FEEDPRESS
+
 # Rewrite any calls to *.html, *.json, *.xml, *.atom, *.rss, *.rdf or *.txt if a folder matching * exists
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_URI} !public/

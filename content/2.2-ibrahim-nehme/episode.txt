@@ -1,0 +1,36 @@
+episode: 2
+-
+title: Ibrahim Nehme
+-
+person:
+## Editor-in-Chief, [The Outpost](http://the-outpost.me)
+-
+date: 15th December, 2013
+-
+description: Ibrahim is the Editor-in-Chief of The Outpost, a Beirut-based “magazine of possibilities.” We discuss The Outpost's  origins in a region of flux and the current publishing climate in the Middle East.
+-
+simplecast_id: 1250
+-
+content: 
+Ibrahim is the Editor-in-Chief of [The Outpost](http://theoutpost.me), a Beirut-based “magazine of possibilities.” We discuss The Outpost's  origins in a region of flux and the current publishing climate in the Middle East.
+
+## Show Notes
+
+- [Brownbook](http://brownbook.me)
+- [The Carton](http://www.artandthensome.com/thecarton)
+- [We Are Here](http://weareheremagazine.com/)
+- [WTD](http://wtdmag.com/)
+- [The State](http://www.thestate.ae)
+- [Papercup](http://papercupstore.com/), Beirut
+- [The Magazine Shop](http://themagazineshop.me/about), Dubai
+- [The Outpost](http://theoutpost.me)
+- [The Outpost on Twitter](http://twitter.com/theoutpostme)
+- [Buy The Outpost on the Magpile Store](http://magpile.com/the-outpost/)
+
+---
+
+## Ibrahim's 3 magazine recommendations
+
+- [COLORS](http://colorsmagazine.com)
+- [The Believer](http://www.believermag.com/)
+- [The State](http://www.thestate.ae/)

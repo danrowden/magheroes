@@ -1,7 +1,9 @@
 title: About Mag Heroes
 -
+description: Read about Mag Heroes, a new audio show by Dan Rowden, chatting with people who make magazines.
+-
 content: 
-_Mag Heroes_ is a new audio show that talks with people who make magazines.
+_Mag Heroes_ is a new audio show by Dan Rowden, with chats with people who make magazines.
 
 Since launching [Magpile](http://magpile.com/) I've been in contact with a great group of publishers, editors and designers. I've come to realise that many of these people are hidden behind their magazines, which is something I aim to tackle with _Mag Heroes_, where I find out where they came from, how they got into magazines, and explore their day-to-day work and inspiration.
 

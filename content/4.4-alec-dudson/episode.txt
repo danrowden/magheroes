@@ -1,0 +1,42 @@
+episode: 4
+-
+title: Alec Dudson
+-
+person:
+## Editor, [Intern](http://intern-mag.com)
+-
+date: 12th February, 2014
+-
+description: Alec is Editor of Intern, a new magazine highlighting work by interns and sparking the debate about intern culture. We discuss the genesis of his publication, his work as an intern for other independent mags, and how Kickstarter has become a good way to launch a new title.
+-
+simplecast_id: 1586
+-
+content: 
+Alec is Editor of [Intern](http://intern-mag.com), a new magazine highlighting work by interns and sparking the debate about intern culture. We discuss the genesis of his publication, his work as an intern for other independent mags, and how Kickstarter has become a good way to launch a new title.
+
+## Show Notes
+
+- [Dazed and Confused](http://www.dazeddigital.com/)
+- [Domus](https://www.domusweb.it/en/home.html)
+- [VICE](http://www.vice.com/)
+- [Boat](http://boat-mag.com)
+- [Offscreen's Kickstarter campaign](https://www.kickstarter.com/projects/207453830/offscreen-magazine)
+- [Hello Mr.'s Kickstarter campaign](https://www.kickstarter.com/projects/ryanfitzgibbon/hello-mr)
+- [Day Job's Kickstarter campaign](https://www.kickstarter.com/projects/581102026/day-job-magazine)
+- [STACK Magazine of the Year](http://www.stackmagazines.com/update/magazine-year/)
+
+---
+
+## Alec's 3 magazine recommendations
+
+### [Another Escape](http://anotherescape.com/)
+
+![Another Escape](../content/4.4-alec-dudson/AE.jpg)
+
+### [Purple Fashion](http://purple.fr/magazine/)
+
+![Purple Fashion](../content/4.4-alec-dudson/PF.jpg)
+
+### [Mousse](http://moussemagazine.it/)
+
+![Mousse](../content/4.4-alec-dudson/M.jpg)

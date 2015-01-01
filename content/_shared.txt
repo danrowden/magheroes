@@ -2,10 +2,10 @@ name: Mag Heroes
 -
 tagline: Chats with magazine makers
 -
-email: dan@laiva.co
+email: magheroes@danrowden.com
 -
 twitter: magheroes
 -
-rss: http://simplecast.fm/podcasts/39/rss
+rss: http://magheroes.net/feed/
 -
-itunes: http://itunes.com
+itunes: https://itunes.apple.com/podcast/mag-heroes/id764915895

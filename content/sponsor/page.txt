@@ -2,17 +2,19 @@ title: Sponsor the Show
 -
 bypass_cache: true
 -
+description: Sponsor Mag Heroes and promote your magazine, product or company to our audience.
+-
 content: 
-Sponsorships help support _Mag Heroes_ and get your magazine, company or product direct exposure on the only magazine audio show on the web.
+Sponsorships help support _Mag Heroes_ and get your magazine, product or company direct exposure on the only magazine audio show on the web.
 
-Advertise directly to our growing reader- and publisher-based audience.
+Advertise directly to _Mag Heroes_' growing reader- and publisher-based audience.
 
 What you get:
 
 - A 20-second sponsor read at the beginning of the episode(s)
-- A permant link on the episode page(s) on the _Mag Heroes_ website
-- A link in the show RSS feed that the majority of our listeners subscribe to
+- A permanent link on the episode page(s) on the _Mag Heroes_ website
+- A link in the show RSS feed
 
 Sponsorships are available on a **per-episode basis** and cost a purposely-affordable **£50 ($80, €60)** per episode.
 
-Please email me at <dan@laiva.co> to schedule your sponsorship.
+Please email me at [@email](mailto:@email) to schedule your sponsorship.
