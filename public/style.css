@@ -80,6 +80,23 @@ img::-moz-selection	{background: transparent;}
 body {-webkit-tap-highlight-color: rgba(255,255,255,0.8);}
 
 
+/* Forms */
+input {
+    font-size: inherit;
+    padding: 6px;
+    font-family: inherit;
+}
+input[type=submit] {
+    -webkit-appearance: none;
+    border: 0;
+    padding: 6px;
+    border-radius: 4px;
+    font-weight: bold;
+    color: #fff;
+    background: #18a262;
+}
+
+
 /* Mobile Layout */
 
 hr { clear: both; margin: 40px 0; background-color: white; border: 1px solid #ebebeb; border-style: none none solid; color: white; }
@@ -216,6 +233,10 @@ article .show_notes img {
 }
 #page .container p, #page .container ul {
     text-align: left;
+}
+
+.container #newsletter p {
+    text-align: center;
 }
 
 footer {
