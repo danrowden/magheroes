@@ -1,0 +1,33 @@
+episode: 8
+-
+is_hero: 1
+-
+title: Gail Bichler
+-
+person:
+## Design Director, [The New York Times Magazine](http://www.nytimes.com/pages/magazine/index.html)
+-
+date: 14th March, 2015
+-
+date_css: right: 26%; color: #fff; text-align: right; top: 30%;
+-
+description: Gail Bichler has the envious job of Design Director at The New York Times Magazine, a publication setting trends in cover design, read by millions each week, and with a big relaunch just a few weeks ago. Gail explains how the magazine gets put together each week, her rise through the ranks at the magazine, and reveals her favourite NYTMag covers.
+-
+simplecast_id: 9238
+-
+content:
+Gail Bichler has the envious job of Design Director at [The New York Times Magazine](http://www.nytimes.com/pages/magazine/index.html), a publication setting trends in cover design, read by millions each week, and with a big relaunch just a few weeks ago. Gail explains how the magazine gets put together each week, her rise through the ranks at the magazine, and reveals her favourite NYTMag covers.
+
+## Show Notes
+
+- [Behind the Relaunch of The New York Times Magazine](http://www.nytimes.com/2015/02/22/magazine/behind-the-relaunch-of-the-new-york-times-magazine-by-jake-silverstein.html)
+- [NYTMag on Magpile](http://magpile.com/the-new-york-times-magazine/)
+- [@gailbichler](http://twitter.com/gailbichler)
+
+## Gail's magazine recommendations
+
+- [New York](http://nymag.com/)
+- [COLORS](http://www.colorsmagazine.com/)
+- [Printed Pages](http://printedpagesmagazine.com/)
+
+Photo credit: Andrew T. Warman

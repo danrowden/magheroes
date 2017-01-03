@@ -5,11 +5,11 @@
     <head>
     	<meta charset="utf-8"/>
     	<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
-    	<title>Mag Heroes Audio Show</title>
-    	<meta name="description" content="A new audio show by Dan Rowden, chatting with magazine makers." />
+    	<title>Mag Heroes Podcast</title>
+    	<meta name="description" content="@tagline" />
     	<meta name="keywords" content="" />
 		<meta name='viewport' content='width=device-width, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no' />
-		<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,900|Raleway:700' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Intro:400,700|Roboto:300,400,400italic,700' rel='stylesheet' type='text/css'>
 		<link rel="stylesheet" href="http://@base_url/style.css" type="text/css" />
 		<link href="@rss" rel="alternate" title="Mag Heroes RSS" type="application/rss+xml" />
 		<!--[if lt IE 9]>
@@ -18,33 +18,35 @@
     </head>
 
     <body>
-        
-        <header>
-            <div class="container">
-                <h1 class="logo"><a href="http://@base_url">Mag Heroes</a></h1>
-                <h2>Chats with magazine makers.  <a href="http://@base_url/about/">Read more</a></h2>
-            </div>
-        </header>
-        
-        <div class="links container">
-            :links
-        </div>
-        
+
+        :header
+
         <section id="episodes">
             :episodes-list
         </section>
-                
+
         <footer>
-            <div class="links">
-                :links
-            </div>
             <div class="container">
                 :footer
             </div>
         </footer>
-        
+
+
+        <script type="text/javascript">
+        window.onresize = resize;
+        window.onload = resize();
+        function resize(event) {
+            var hero_image = document.getElementById('hero-image');
+            if (window.innerWidth >= 620) {
+                hero_image.style.backgroundImage = hero_image.style.backgroundImage.replace('profile.', 'hero.');
+            } else {
+                hero_image.style.backgroundImage = hero_image.style.backgroundImage.replace('hero.', 'profile.');
+            }
+        };
+        </script>
+
         :analytics
-        
+
 	</body>
-	
+
 </html>

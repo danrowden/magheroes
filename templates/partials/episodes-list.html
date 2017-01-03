@@ -1,17 +1,20 @@
 get '/' do
-    foreach $root do
-      <article>
-          <div class="container">
-              <div class="image">
-                  <a href="@permalink"><img src="@thumb" alt="@title" /></a>
-              </div>
-              <div class="text">
-                  <h1><a href="@permalink">@title</a></h1>
-                  @person
-                  <p class="date"><span>Episode @episode</span> &nbsp;&bull;&nbsp; @date</p>
-                  <iframe src="https://simplecast.fm/e/@simplecast_id?style=light" frameborder="0" height="36" scrolling="no" seamless width="100%"></iframe>
-                  <p><a href="@permalink" class="show_show_notes">View Show notes</a></p>
-              </div>
-      </article>
+    foreach $root[0:1] do
+        if @is_hero do
+            :latest-hero
+        endif
+        if !@is_hero do
+            :latest-simple
+        endif
+    endforeach
+
+    foreach $root[1:2] do
+        :episode-in-list
+    endforeach
+
+    <!-- <p>Newsletter</p> -->
+
+    foreach $root[3:] do
+        :episode-in-list
     endforeach
 end

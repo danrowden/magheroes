@@ -1,0 +1,42 @@
+episode: 6
+-
+is_hero: 1
+-
+title: Ryan Essmaker
+-
+person:
+## Design Director and Co-Editor, [The Great Discontent](http://thegreatdiscontent.com)
+-
+date: 12th February, 2015
+-
+date_css: right: 26%; color: #fff; text-align: right; top: 30%;
+-
+description: Ryan Essmaker is half of the husband-wife team that started The Great Discontent as an online interview series in 2011. Launching a print edition in spring 2014, TGD has recently gone quarterly. I talked with Ryan about TGD's beginnings, current growth and the possibilites print brings to the previously web-only brand.
+-
+simplecast_id: 7518
+-
+content:
+Ryan Essmaker is half of the husband-wife team that started [The Great Discontent](http://thegreatdiscontent.com) as an online interview series in 2011. Launching a print edition in spring 2014, TGD has recently gone quarterly. I talked with Ryan about TGD's beginnings, current growth and the possibilites print brings to the previously web-only brand.
+
+## Show Notes
+
+- [Brad Smith joins the TGD team](http://thegreatdiscontent.com/blog/tgd-goes-wayward-wild)
+- [2014 Magpile Magazine Awards](http://magpile.com/awards/)
+- [Issue 1](http://shop.thegreatdiscontent.com/products/the-great-discontent-issue-one)
+- [Issue 2](http://shop.thegreatdiscontent.com/products/the-great-discontent-issue-two)
+- [The Great Discontent Shop](http://shop.thegreatdiscontent.com)
+- [@greatdiscontent](http://twitter.com/greatdiscontent)
+
+## Ryan's magazine recommendations
+
+- [Acne Paper](http://acnepaper.com)
+- [The Travel Almanac](http://www.travel-almanac.com/)
+- [Intermission](http://www.intermissionmagazine.com)
+- [Puss Puss](http://pusspussmagazine.com/)
+- [Riot of Perfume](http://riotofperfume.com)
+- [Fantastic Man](http://fantasticman.com)
+-
+sponsor: Hemlock
+-
+sponsor_url: http://hemlock.com
+-

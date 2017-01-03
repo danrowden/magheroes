@@ -1,0 +1,46 @@
+episode: 7
+-
+is_hero: 1
+-
+title: Rosa Park
+-
+person:
+## Editor, [Cereal](http://readcereal.com)
+-
+date: 2nd March, 2015
+-
+date_css: right: 26%; color: #fff; text-align: right; top: 30%;
+-
+description: Rosa Park is the Editor of “travel and style” magazine, Cereal, which is on the cusp of a relaunch, with a new design and a slight change in content scope. Rosa talks about starting a magazine with little experience in the industry, the balance of how much to share of new issues on Instagram and travelling around the world scoping features with Creative Director, Rich Stapleton.
+-
+simplecast_id: 8785
+-
+content:
+Rosa Park is the Editor of “travel and style” magazine, [Cereal](http://readcereal.com), which is on the cusp of a relaunch, with a new design and a slight change in content scope. Rosa talks about starting a magazine with little experience in the industry, the balance of how much to share of new issues on Instagram and travelling around the world scoping features with Creative Director, Rich Stapleton. 
+
+## Show Notes
+
+- [Twitter: @cerealmag](http://twitter.com/cerealmag)
+- [Facebook: @cerealmag](http://facebook.com/cerealmag)
+- [Instagram: @cerealmag](http://instagram.com/cerealmag)
+- [Volume 9 cover](https://instagram.com/p/zK1vX4sUfT/)
+- [Guided by Cereal](https://guidedbycereal.com/)
+- [Cereal, Korean language edition](http://readcereal.com/korean-edition/)
+
+## Rosa's magazine recommendations
+
+- [The Economist](http://www.economist.com/printedition/)
+- [Time](http://time.com)
+- [The New Yorker](http://thenewyorker.com)
+- [Wired](http://wired.com)
+- [National Geographic](http://ngm.nationalgeographic.com/)
+- [Monocle](http://monocle.com)
+- [The Gentlewoman](http://thegentlewoman.co.uk/)
+- [Fantastic Man](http://www.fantasticman.com/)
+- [The White Review](http://www.thewhitereview.org)
+
+-
+sponsor: Newsstand
+-
+sponsor_url: http://newsstand.co.uk
+-

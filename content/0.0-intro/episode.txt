@@ -7,7 +7,10 @@ person:
 -
 date: 22nd November, 2013
 -
+description:
+This first episode introduces _Mag Heroes_ and lays out my thoughts behind starting this show.
+-
 simplecast_id: 1184
 -
-content: 
+content:
 This first episode introduces _Mag Heroes_ and lays out my thoughts behind starting this show.

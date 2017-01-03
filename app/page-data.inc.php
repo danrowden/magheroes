@@ -46,11 +46,12 @@ Class PageData {
     return (count($parents) < 1) ? array() : $parents;
   }
 
-  static function get_thumbnail($file_path) {
-    $thumbnails = array_keys(Helpers::list_files($file_path, '/thumb\.(gif|jpg|png|jpeg)$/i', false));
-    # replace './content' with relative path back to the root of the app
-    $relative_path = preg_replace('/^\.\//', Helpers::relative_root_path(), $file_path);
-    return (!empty($thumbnails)) ? $relative_path.'/'.$thumbnails[0] : false;
+  // Edited to allow thumb, hero, profile
+  static function get_image($type, $file_path) {
+      $images = array_keys(Helpers::list_files($file_path, '/'.$type.'\.(gif|jpg|png|jpeg)$/i', false));
+      # replace './content' with relative path back to the root of the app
+      $relative_path = preg_replace('/^\.\//', Helpers::relative_root_path(), $file_path);
+      return (!empty($images)) ? $relative_path.'/'.$images[0] : false;
   }
 
   static function get_index($siblings, $file_path) {
@@ -114,7 +115,15 @@ Class PageData {
     # @root_path
     $page->root_path = Helpers::relative_root_path();
     # @thumb
-    $page->thumb = self::get_thumbnail($page->file_path);
+    $page->thumb = self::get_image('thumb', $page->file_path);
+    # @hero
+    $page->hero = self::get_image('hero', $page->file_path);
+    # @profile
+    $page->profile = self::get_image('profile', $page->file_path);
+    # @cover
+    $page->cover = self::get_image('cover', $page->file_path);
+    # @ad
+    $page->ad = self::get_image('ad', $page->file_path);
     # @current_year
     $page->current_year = date('Y');
 

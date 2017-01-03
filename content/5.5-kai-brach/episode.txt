@@ -1,0 +1,35 @@
+episode: 5
+-
+is_hero: 1
+-
+title: Kai Brach
+-
+person:
+## Editor, [Offscreen](http://offscreenmag.com)
+-
+date: 19th January, 2015
+-
+date_css: top: 100px;
+-
+description: Kai Brach is the man behind Offscreen, a magazine about people who work on the web and with apps. We talk about Kai's transition from web designer to independent magazine publisher and discuss the importance of social media in today's publishing landscape.
+-
+simplecast_id: 6728
+-
+content:
+Kai Brach is the man behind [Offscreen](http://offscreenmag.com), a magazine about people who work on the web and with apps. We talk about Kai's transition from web designer to independent magazine publisher and discuss the importance of social media in today's publishing landscape.
+
+## Show Notes
+
+- [Cereal](http://readcereal.com)
+- [Hello Mr.](http://hellomrmag.com)
+
+## Kai's 3 magazine recommendations
+
+- [Scrag End](http://scragend.com/)
+- [Delayed Gratification](http://www.slow-journalism.com/)
+- [Collect](http://magpile.com/collect/) (no longer published)
+-
+sponsor: Stack Magazines
+-
+sponsor_url: http://stackmagazines.com
+-

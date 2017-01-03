@@ -1,0 +1,37 @@
+<article class="single">
+	<div class="container">
+		if @is_hero do
+		<div class="head">
+			<img src="@profile" class="profile" alt="@title">
+			<h1>@title</h1>
+			@person
+			<iframe src="https://simplecast.fm/e/@simplecast_id?style=light" frameborder="0" height="36" scrolling="no" seamless width="100%"></iframe>
+		</div>
+		endif
+		if !@is_hero do
+		<div class="head simple">
+			<div class="photo">
+				<img src="@thumb" class="thumb" alt="@title" />
+			</div>
+			<div class="info">
+				<h1><a href="@permalink">@title</a></h1>
+				@person
+				<iframe src="https://simplecast.fm/e/@simplecast_id?style=light" frameborder="0" height="36" scrolling="no" seamless width="100%"></iframe>
+			</div>
+		</div>
+		endif
+		<div class="left">
+			<p class="date"><span>Episode @episode</span><br>@date</p>
+
+		</div>
+		<div class="right">
+			@content
+		</div>
+		if @sponsor do
+		<div class="ad">
+			<h4 class="sponsor">This episode is sponsored by</h4>
+			<a href="@sponsor_url" title="@sponsor"><img src="@ad" class="ad"></a>
+		</div>
+		endif
+	</div>
+</article>

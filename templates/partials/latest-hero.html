@@ -1,0 +1,30 @@
+<article class="hero">
+	<div id="hero-image" style="background-image:url(@profile)"></div>
+	<div class="box">
+		<div class="left">
+			<h1><a href="@permalink">@title</a></h1>
+			@person
+			<iframe src="https://simplecast.fm/e/@simplecast_id?style=light" frameborder="0" height="36" scrolling="no" seamless width="100%"></iframe>
+			<p class="date"><span>Episode @episode</span><br>@date</p>
+			<p class="description">@description</p>
+			<p class="show_notes_link"><a href="@permalink">View Show notes</a></p>
+		</div>
+		<div class="right">
+			<img src="@cover" class="cover">
+			if @sponsor do
+			<br>
+			<h4 class="sponsor">This episode is sponsored by</h4>
+			<a href="@sponsor_url" title="@sponsor"><img src="@ad" class="ad"></a>
+			endif
+		</div>
+	</div>
+</article>
+if @date_css do
+	<style>
+	@media only screen and (min-width: 620px) {
+		article.hero .date {
+			@date_css
+		}
+	}
+	</style>
+endif

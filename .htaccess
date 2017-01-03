@@ -1,14 +1,4 @@
-# START local only
 
-Options -Indexes
-Options +FollowSymLinks
-Options -MultiViews
-
-DirectoryIndex index.php
-
-# END local only
- 
- 
 RewriteEngine on
 
 # Some hosts require a rewritebase rule, if so, uncomment the RewriteBase line below. If you are running from a subdirectory, your rewritebase should match the name of the path to where stacey is stored.
@@ -30,11 +20,11 @@ RewriteCond %{DOCUMENT_ROOT}/public/$1.$2 !-f
 RewriteRule (.+)\.(html|json|xml|atom|rss|rdf|txt)$ $1/ [L]
 
 # Add a trailing slash to directories
-#RewriteCond %{REQUEST_FILENAME} !-f
-#RewriteCond %{REQUEST_FILENAME} !-d
-#RewriteCond %{REQUEST_URI} !(\.)
-#RewriteCond %{REQUEST_URI} !(.*)/$
-#RewriteRule ([^/]+)$ $1/ [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} !(\.)
+RewriteCond %{REQUEST_URI} !(.*)/$
+RewriteRule ([^/]+)$ $1/ [L]
 
 # Rewrite any calls to /* or /app to the index.php file
 RewriteCond %{REQUEST_URI} /app/$

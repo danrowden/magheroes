@@ -1,0 +1,37 @@
+episode: 9
+-
+is_hero: 1
+-
+title: Elliot and Samantha Stocks
+-
+person:
+## Co-editors, [Lagom](http://readlagom.com)
+-
+date: 30th March, 2015
+-
+date_css: right: 26%; color: #fff; text-align: right; top: 5%;text-shadow: 0 0 10px rgba(0,0,0,0.6);
+-
+description: Elliot and Samantha Stocks are the husband and wife team behind Lagom, a new magazine which looks at creativity, and the balance between work and play. In the episode, they talk through the new issue (released last week), how they manage publishing the magazine in their spare time, selecting photos for their covers, and we discussed their interesting use of partnerships and adverts to support the magazine's growth.
+-
+simplecast_id: 9697
+-
+content:
+Elliot and Samantha Stocks are the husband and wife team behind [Lagom](http://readlagom.com), a new magazine which looks at creativity, and the balance between work and play. In the episode, they talk through the new issue (released last week), how they manage publishing the magazine in their spare time, selecting photos for their covers, and we discussed their interesting use of partnerships to support the magazine's growth.
+
+## Show Notes
+
+- [Lagom, issue 2](http://www.readlagom.com/issue-2/contents/)
+- [Magpile Magazine Awards 2014](http://magpile.com/awards/)
+- [8 Faces](http://www.8faces.com/)
+- [Offscreen Behind-the-scenes blog posts](http://blog.offscreenmag.com/tagged/behind-the-scenes)
+- [Digest’s typography & grids (part 1)](http://www.elliotjaystocks.com/blog/digests-typography-and-grids-part-1/)
+- [Pay your contributors](http://www.elliotjaystocks.com/blog/pay-your-contributors/)
+- [@elliotjaystocks](http://twitter.com/elliotjaystocks)
+- [@samkabam](http://twitter.com/samkabam)
+- [@readlagom](http://twitter.com/readlagom)
+
+## Elliot and Samantha's magazine recommendations
+
+- [Four & Sons](http://fourandsons.com/)
+- [Sidetracked](http://www.sidetracked.com/)
+- [Hot Rum Cow](http://www.hotrumcow.co.uk/)

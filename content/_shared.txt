@@ -1,6 +1,6 @@
 name: Mag Heroes
 -
-tagline: Chats with magazine makers
+tagline: A podcast about magazines and the people who make them.
 -
 email: magheroes@danrowden.com
 -
@@ -9,3 +9,5 @@ twitter: magheroes
 rss: http://magheroes.net/feed/
 -
 itunes: https://itunes.apple.com/podcast/mag-heroes/id764915895
+-
+stitcher: http://stitcher.com/podcast/mag-heroes
