@@ -163,9 +163,10 @@ header .right {
 header h2.subscribe {
 	display: inline;
 	margin-right: 5px;
-	font-family: Intro;
-	font-size: 14px;
-	font-weight: 400;
+	font-size: 11px;
+  line-height: 14px;
+	font-weight: 700;
+  text-transform: uppercase;
 }
 header h2.subscribe ~ p {
 	display: inline;
@@ -355,7 +356,7 @@ footer ul {
 
 	/* Header */
 	header {
-		padding: 30px 0 35px;
+		padding: 45px 0 35px;
 	}
 	header .left {
 		float: left;
@@ -376,13 +377,12 @@ footer ul {
 		width: auto;
 	}
 	header h1 ~ p {
-		float: left;
-		margin: -8px 0 0 66px;
+		margin: 4px 0 0;
 	}
 	header .right {
 		float: right;
 		margin-top: 0;
-		padding-top: 29px;
+		padding-top: 26px;
 		text-align: center;
 	}
 	header h2.subscribe {

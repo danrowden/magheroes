@@ -1,0 +1,39 @@
+episode: 10
+-
+is_hero: 1
+-
+title: Steven Watson
+-
+person:
+## Founder, [Stack Magazines](http://stackmagazines.com)
+-
+date: 23rd January, 2017
+-
+date_css: left: 20%; color: #fff; top: 25%; text-shadow: 0 0 10px rgba(0,0,0,0.6);
+-
+description: Steve is the founder of Stack Magazines, a magazine subscription service that sends you a different independent magazine every month. Steve is slowly building a magazine-focused empire; in this episode we touch on a few of his latest projects, the Stack Awards and the Stack podcast.
+-
+simplecast_id: 58183
+-
+content:
+Steve is the founder of [Stack Magazines](http://stackmagazines.com), a magazine subscription service that sends you a different independent magazine every month. Steve is slowly building a magazine-focused empire; in this episode we touch on a few of his latest projects, the Stack Awards and the Stack podcast.
+
+##Show notes
+- [Stack Awards](http://stackmagazines.com/awards/)
+- [Real Review](http://real-review.org/)
+- [Stack Live](http://www.stackmagazines.com/update/small-magazines-big-ambitions/)
+- [Rough Trade](https://www.roughtrade.com/rough-trade-magazine)
+- [Gym Class](https://twitter.com/GymClassMag)
+- [magCulture Meets](http://magculture.com/events/)
+- [Stack Podcast](http://www.stackmagazines.com/tag/podcasts/)
+- [Publishing Playbook](http://www.publishingplaybook.com/)
+
+## Where to find Steve (and Stack)
+- [@StackMagazines on Twitter](https://twitter.com/stackmagazines)
+- [@StackMagazines on Instagram](https://instagram.com/stackmagazines)
+
+## Steve's magazine recommendations
+
+- [The Move](http://www.themovemag.co.uk/)
+- [Real Review](http://real-review.org/)
+- [Weapons of Reason](http://weaponsofreason.com/)
