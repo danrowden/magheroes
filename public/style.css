@@ -474,14 +474,14 @@ footer ul {
 	article.hero .right {
 		display: block;
 		float: right;
-		width: 18%;
+		width: 20%;
 	}
 	article.hero .cover {
 		width: 100%;
+    box-shadow: 0 1px 6px rgba(0,0,0,0.2);
 	}
 	article.hero .ad {
-		margin: 0 5%;
-		width: 90%;
+		width: 100%;
 	}
 	article.hero .date {
 		position: absolute;

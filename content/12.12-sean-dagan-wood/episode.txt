@@ -1,0 +1,40 @@
+episode: 12
+-
+is_hero: 1
+-
+title: Sean Dagan Wood
+-
+person:
+## Editor-in-chief, [Positive News](https://positive.news)
+-
+date: 1st June, 2017
+-
+date_css: left: 30%; color: #fff; top: 35%; text-shadow: 0 0 10px rgba(0,0,0,0.6);text-align:right;
+-
+description: Sean is the Editor-in-chief of Positive News, a publication focused on sharing stories about the good in the world. We chat about the magazine's history, starting as newsprint in the 1993, and its smart, ethical and positive publishing outlook.
+-
+simplecast_id: 71020
+-
+sponsor: Subsail
+-
+sponsor_url: https://subsail.com
+-
+content:
+Sean is the Editor-in-chief of [Positive News](https://positive.news), a publication focused on sharing stories about the good in the world. We chat about the magazine's history, starting as newsprint in the 1993, and its smart, ethical and positive publishing outlook.
+
+##Show notes
+- [Positive News crowdfunding campaign](http://www.crowdfunder.co.uk/positivenews)
+- [Issue 89 on Magpile](http://magpile.com/positive-news/89/)
+- [Positive News membership](https://www.positive.news/join/)
+
+## Where to find Positive News
+- [positive.news](https://positive.news)
+- [@positivenewsuk on Twitter](https://twitter.com/positivenewsuk)
+- [@positivenewsuk on Instagram](https://instagram.com/positivenewsuk)
+
+## Sean's magazine recommendations
+
+- [Delayed Gratification](http://www.slow-journalism.com/)
+- [The Outpost](http://the-outpost.com/)
+- [Ethos](https://ethos-magazine.com/)
+- [Stand](http://www.stand-magazine.com/)

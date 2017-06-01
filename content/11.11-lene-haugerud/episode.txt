@@ -1,0 +1,31 @@
+episode: 11
+-
+is_hero: 1
+-
+title: Lene Haugerud
+-
+person:
+## Editor, [Brygg](http://bryggmagasin.no)
+-
+date: 3rd February, 2017
+-
+date_css: left: 20%; color: #fff; top: 25%; text-shadow: 0 0 10px rgba(0,0,0,0.6);
+-
+description: Lene is the editor of Brygg, a magazine about "conversation and coffee." We discuss Brygg's past as a Norwegian-language coffee magazine, it's change to an English-language cultural title, and what's coming up in the next issue.
+-
+simplecast_id: 59485
+-
+content:
+Lene is the editor of [Brygg](http://bryggmagasin.no), a magazine about "conversation and coffee." We discuss Brygg's past as a Norwegian-language coffee magazine, it's change to an English-language cultural title, and what's coming up in the next issue.
+
+## Where to find Lene and Brygg
+- [@lenehaugerud on Twitter](https://twitter.com/lenehaugerud)
+- [@beyondmeek on Instagram](https://instagram.com/beyondmeek)
+- [@Brygg_magazine on Twitter](https://twitter.com/Brygg_magazine)
+- [@brygg_magazine on Instagram](https://instagram.com/brygg_magazine)
+- [bryggmagasin.no](https://bryggmagasin.no)
+
+## Lene's magazine recommendations
+
+- [The Happy Reader](https://www.thehappyreader.com)
+- [The First Line](http://www.thefirstline.com)
